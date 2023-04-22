@@ -2,6 +2,9 @@
 
 A place to centralize the great work [@mathiasbynens](http://mths.be/macos) did gathering and fostering a community around finding and documenting macOS default configuration from the command-line.
 
+Wanting to jailbreak your Mac? That's possible!
+
+
 ## Repo configuration
 Note: There are 2 branches.
 
