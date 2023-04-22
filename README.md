@@ -1,4 +1,4 @@
-# macOS Defaults
+# Jailbreak my Mac
 
 A place to centralize the great work [@mathiasbynens](http://mths.be/macos) did gathering and fostering a community around finding and documenting macOS default configuration from the command-line.
 
@@ -9,7 +9,7 @@ Note: There are 2 branches.
 2. `suttle`: My personal preferences and settings.
 
 
-## Executing the .macos file
+## How to get tweaks
 
 When setting up a new Mac, you may want to set some sensible macOS defaults:
 
